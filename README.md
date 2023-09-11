@@ -1,1 +1,1 @@
-# BSUclasses_KN
+This project is about automating the collection and processing of data from Buffalo State University. This typically involves web scraping and data processing using Python. If we need to regularly collect and process data from Buffalo State University or any other source, we can schedule the execution of your Python functions using tools like cron on Linux or Task Scheduler on Windows. This allows us to automate data collection at specified intervals.
